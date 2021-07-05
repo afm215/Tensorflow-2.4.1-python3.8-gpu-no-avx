@@ -16,9 +16,9 @@ before installing it , follow these steps:
 
 ## CUDNN
 
-* get the correct version of cudnn :cudnn-11.3-linux-x64-v8.2.0.53 on nvida cudnn archive (cuDNN Library for Linux (x86_64)) :
+* get the correct version of cudnn :cudnn-11.3-linux-x64-v8.2.0.53 on nvida cudnn archive (**Download cuDNN v8.2.0 (April 23rd, 2021), for CUDA 11.x** then **cuDNN Library for Linux (x86_64)**) : https://developer.nvidia.com/rdp/cudnn-archive
 
-* copy the include folder's files of cudnn files in  /usr/local/cuda-11.0/include
+* copy the include folder's files of the downloaded cudnn files in  /usr/local/cuda-11.0/include
 
 * do the same with the lib64 files. copy them in /usr/local/cuda-11.0/lib64
 
