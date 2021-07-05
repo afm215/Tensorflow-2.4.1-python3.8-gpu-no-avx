@@ -1,6 +1,8 @@
 # Tensorflow-2.4.1-python3.8 CUDA with no avx support for Ubuntu 20
 
-the following wheel has been compiled on xeon 5660 x , a cpu with no AVX support.
+The following wheel has been compiled on xeon 5660 x , a cpu with no AVX support.
+
+**Make sure you have git lfs installed since this repo is using it !**
 
 before installing it , follow these steps:
 
