@@ -14,7 +14,7 @@ before installing it , follow these steps:
 
 * sudo sh cuda_11.0.3_450.51.06_linux.run
 
-* Make sure the PATH is correctly edited after the install , if not , edit it coorectly with regard to the output installation instructions.
+* Make sure the PATH is correctly edited after the install , if not , edit it correctly with regard to the output installation instructions.
 
 ## CUDNN
 
