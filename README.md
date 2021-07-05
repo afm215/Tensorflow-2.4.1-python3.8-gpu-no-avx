@@ -16,6 +16,8 @@ before installing it , follow these steps:
 
 * Make sure the PATH is correctly edited after the install , if not , edit it correctly with regard to the output installation instructions.
 
+PS: Just in case reboot the computer here , I am not sure it is mandatory, but who knows;)
+
 ## CUDNN
 
 * get the correct version of cudnn :cudnn-11.3-linux-x64-v8.2.0.53 on nvida cudnn archive (**Download cuDNN v8.2.0 (April 23rd, 2021), for CUDA 11.x** then **cuDNN Library for Linux (x86_64)**) : https://developer.nvidia.com/rdp/cudnn-archive
@@ -25,6 +27,8 @@ before installing it , follow these steps:
 * do the same with the lib64 files. copy them in /usr/local/cuda-11.0/lib64
 
 * finally, execute : sudo chmod a+r /usr/local/cuda-11.0/include/cudnn*.h /usr/local/cuda-11.0/lib64/libcudnn
+
+again make a reboot here, just in case.
 
 ## INSTALLATION OF THE WHEEL
 
