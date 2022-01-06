@@ -26,7 +26,7 @@ PS: Just in case reboot the computer here , I am not sure it is mandatory, but w
 
 * do the same with the lib64 files. copy them in /usr/local/cuda-11.0/lib64
 
-* finally, execute : sudo chmod a+r /usr/local/cuda-11.0/include/cudnn*.h /usr/local/cuda-11.0/lib64/libcudnn
+* finally, execute : sudo chmod a+r /usr/local/cuda-11.0/include/cudnn*.h /usr/local/cuda-11.0/lib64/libcudnn*
 
 again make a reboot here, just in case.
 
