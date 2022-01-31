@@ -2,7 +2,7 @@
 
 The following wheel has been compiled on xeon x5660 , a cpu with no AVX support.
 
-** If you want to get the wheel by cloning the repo, make sure you have git lfs installed since this repo is using it !**, if not, please download it directly from github.
+** If you want to get the wheel by cloning the repo, make sure you have git lfs installed since this repo is using it ! **, if not, please download it directly from github.
 
 before installing it , follow these steps:
 
@@ -44,40 +44,3 @@ python3.8 -m pip install path/to/the/wheel/tensorflow-2.4.1-cp38-cp38-linux_x86_
 
 If everything works , you should have no core dump when importing tensorflow and the physical_devices variable should contain a GPU if your computer has a NVIDIA card.
 
-### To be deleted
-
-You can use the [editor on GitHub](https://github.com/afm215/Tensorflow-2.4.1-python3.8-gpu-no-avx/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/afm215/Tensorflow-2.4.1-python3.8-gpu-no-avx/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
