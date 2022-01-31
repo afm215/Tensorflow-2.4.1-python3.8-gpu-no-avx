@@ -2,7 +2,7 @@
 
 The following wheel has been compiled on xeon x5660 , a cpu with no AVX support.
 
-** If you want to get the wheel by cloning the repo, make sure you have git lfs installed since this repo is using it ! **, if not, please download it directly from github.
+**If you want to get the wheel by cloning the repo, make sure you have git lfs installed since this repo is using it !**, if not, please download it directly from github.
 
 before installing it , follow these steps:
 
