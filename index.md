@@ -1,6 +1,6 @@
 ## Tensorflow-2.4.1-python3.8-gpu-no-avx
 
-The following wheel has been compiled on xeon x5660 , a cpu with no AVX support.
+The repo's wheel has been compiled on xeon x5660 , a cpu with no AVX support.
 
 **If you want to get the wheel by cloning the repo, make sure you have git lfs installed since this repo is using it !**, if not, please download it directly from github.
 
