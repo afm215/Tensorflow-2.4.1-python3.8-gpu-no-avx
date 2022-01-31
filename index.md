@@ -1,4 +1,4 @@
-# Tensorflow-2.4.1-python3.8 CUDA with no avx support for Ubuntu 20
+## Tensorflow-2.4.1-python3.8 CUDA with no avx support for Ubuntu 20
 
 The following wheel has been compiled on xeon x5660 , a cpu with no AVX support.
 
@@ -6,7 +6,7 @@ The following wheel has been compiled on xeon x5660 , a cpu with no AVX support.
 
 before installing it , follow these steps:
 
-## CUDA
+### CUDA
 
 * get the correct version for cuda to make it work :
  
@@ -18,7 +18,7 @@ before installing it , follow these steps:
 
 PS: Just in case reboot the computer here , I am not sure it is mandatory, but who knows;)
 
-## CUDNN
+### CUDNN
 
 * get the correct version of cudnn :cudnn-11.3-linux-x64-v8.2.0.53 on nvida cudnn archive (**Download cuDNN v8.2.0 (April 23rd, 2021), for CUDA 11.x** then **cuDNN Library for Linux (x86_64)**) : https://developer.nvidia.com/rdp/cudnn-archive
 
@@ -30,11 +30,11 @@ PS: Just in case reboot the computer here , I am not sure it is mandatory, but w
 
 again make a reboot here, just in case.
 
-## INSTALLATION OF THE WHEEL
+### INSTALLATION OF THE WHEEL
 
 python3.8 -m pip install path/to/the/wheel/tensorflow-2.4.1-cp38-cp38-linux_x86_64.whl
 
-## Test the installation
+### Test the installation
 
 * import tensorflow as tf
 
