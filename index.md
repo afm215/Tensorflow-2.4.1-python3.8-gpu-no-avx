@@ -44,7 +44,7 @@ python3.8 -m pip install path/to/the/wheel/tensorflow-2.4.1-cp38-cp38-linux_x86_
 
 If everything works , you should have no core dump when importing tensorflow and the physical_devices variable should contain a GPU if your computer has a NVIDIA card.
 
-###To be deleted
+### To be deleted
 
 You can use the [editor on GitHub](https://github.com/afm215/Tensorflow-2.4.1-python3.8-gpu-no-avx/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
